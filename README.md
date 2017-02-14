@@ -181,7 +181,7 @@ The code cell nr. 45 of IPython notebook process a video by going through each v
 
 ![alt text][video1]
 
-Here's a [link to my video result](./output_videos/project_video_result.mp4)
+Here's a [link to my video result](./output_videos/project_video_result.mp4) (mp4).
 
 ---
 
